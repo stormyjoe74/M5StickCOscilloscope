@@ -1,7 +1,7 @@
 #include <M5StickC.h>
 
-const int LCD_WIDTH = 160;
-const int LCD_HEIGHT = 80;
+const int LCD_WIDTH = 110;
+const int LCD_HEIGHT = 100;
 const int SAMPLES = 160;
 const int DOTS_DIV = 10;
 
