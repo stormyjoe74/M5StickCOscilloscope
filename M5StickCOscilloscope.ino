@@ -4,7 +4,7 @@ const int LCD_WIDTH = 160;
 const int LCD_HEIGHT = 80;
 const int SAMPLES = 160;
 const int DOTS_DIV = 10;
-
+//Change font in lcd text
 const int ad_ch0 = 26; // Analog 26 pin for channel 0
 const int ad_ch1 = 36; // Analog 36 pin for channel 1
 const long VREF[] = { 250, 500, 1250, 2500, 5000 };
